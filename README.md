@@ -4,7 +4,6 @@ In this project, let's build a **Gallery App** by applying the concepts we have 
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
-- `hello`
 
 ### Refer to the image below:
 
